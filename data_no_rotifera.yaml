@@ -1,0 +1,4 @@
+train: /path_to/dataset_generator/dataset_no_rotifera/train/images
+val: /path_to/dataset_generator/dataset_no_rotifera/val/images
+
+names: ['cladocera', 'copepode', 'nauplius', 'rotifera', 'egg']

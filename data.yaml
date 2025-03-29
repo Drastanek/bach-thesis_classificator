@@ -1,0 +1,4 @@
+train: /path_to/dataset_generator/dataset/train/images
+val: /path_to/dataset_generator/dataset/val/images
+
+names: ['cladocera', 'copepode', 'nauplius', 'rotifera', 'egg']
